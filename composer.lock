@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a0a1afeedc060bf58123d05f10003223",
+    "content-hash": "3f3bd56132d0ecce6699b7c4ef3afd86",
     "packages": [
         {
             "name": "algolia/algoliasearch-client-php",
@@ -3398,57 +3398,6 @@
             "time": "2025-11-20T09:28:12+00:00"
         },
         {
-            "name": "helsingborg-stad/modularity-local-events",
-            "version": "4.0.2",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/helsingborg-stad/modularity-local-events.git",
-                "reference": "44cf3b40059590223c0a5406cfa0ed83b89d4b76"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/modularity-local-events/zipball/44cf3b40059590223c0a5406cfa0ed83b89d4b76",
-                "reference": "44cf3b40059590223c0a5406cfa0ed83b89d4b76",
-                "shasum": ""
-            },
-            "require": {
-                "helsingborg-stad/municipio": "^6.0.0"
-            },
-            "type": "wordpress-plugin",
-            "extra": {
-                "installer-paths": {
-                    "vendor/{$vendor}/{$name}": [
-                        "type:wordpress-muplugin",
-                        "type:wordpress-theme",
-                        "type:wordpress-plugin",
-                        "type:acf-plugin"
-                    ]
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "ModularityLocalEvents\\": "source/php/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Eric Rosenborg",
-                    "email": "eric.rosenborg@helsingborg.se"
-                }
-            ],
-            "description": "Local events",
-            "support": {
-                "issues": "https://github.com/helsingborg-stad/modularity-local-events/issues",
-                "source": "https://github.com/helsingborg-stad/modularity-local-events/tree/4.0.2"
-            },
-            "abandoned": true,
-            "time": "2025-11-20T09:28:46+00:00"
-        },
-        {
             "name": "helsingborg-stad/modularity-open-street-map",
             "version": "3.0.7",
             "source": {
@@ -3866,16 +3815,16 @@
         },
         {
             "name": "helsingborg-stad/municipio",
-            "version": "6.25.0",
+            "version": "6.26.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/Municipio.git",
-                "reference": "f34b57b62af9588a2043273e29f4a6e44c228f5f"
+                "reference": "ac4981b157d09a081ecad2981e6b434fff4405ae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/Municipio/zipball/f34b57b62af9588a2043273e29f4a6e44c228f5f",
-                "reference": "f34b57b62af9588a2043273e29f4a6e44c228f5f",
+                "url": "https://api.github.com/repos/helsingborg-stad/Municipio/zipball/ac4981b157d09a081ecad2981e6b434fff4405ae",
+                "reference": "ac4981b157d09a081ecad2981e6b434fff4405ae",
                 "shasum": ""
             },
             "require": {
@@ -3951,9 +3900,9 @@
             "description": "A bootstrap theme for creating municipality sites.",
             "support": {
                 "issues": "https://github.com/helsingborg-stad/Municipio/issues",
-                "source": "https://github.com/helsingborg-stad/Municipio/tree/6.25.0"
+                "source": "https://github.com/helsingborg-stad/Municipio/tree/6.26.0"
             },
-            "time": "2026-02-23T07:38:45+00:00"
+            "time": "2026-02-23T10:57:31+00:00"
         },
         {
             "name": "helsingborg-stad/redirection-extended",
@@ -4257,16 +4206,16 @@
         },
         {
             "name": "helsingborg-stad/wp-page-for-post-type",
-            "version": "2.0.6",
+            "version": "2.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/wp-page-for-posttype.git",
-                "reference": "3827e38046e46e2c4a794515948a92fc720f3343"
+                "reference": "7c59b7245ab5a0790bd2a8b682d664acd349b164"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/wp-page-for-posttype/zipball/3827e38046e46e2c4a794515948a92fc720f3343",
-                "reference": "3827e38046e46e2c4a794515948a92fc720f3343",
+                "url": "https://api.github.com/repos/helsingborg-stad/wp-page-for-posttype/zipball/7c59b7245ab5a0790bd2a8b682d664acd349b164",
+                "reference": "7c59b7245ab5a0790bd2a8b682d664acd349b164",
                 "shasum": ""
             },
             "require": {
@@ -4303,9 +4252,9 @@
             ],
             "support": {
                 "issues": "https://github.com/helsingborg-stad/wp-page-for-posttype/issues",
-                "source": "https://github.com/helsingborg-stad/wp-page-for-posttype/tree/2.0.6"
+                "source": "https://github.com/helsingborg-stad/wp-page-for-posttype/tree/2.0.8"
             },
-            "time": "2026-02-23T07:27:47+00:00"
+            "time": "2026-02-23T09:30:33+00:00"
         },
         {
             "name": "helsingborg-stad/wp-search-statistics",
@@ -4876,16 +4825,16 @@
         },
         {
             "name": "humanmade/s3-uploads",
-            "version": "3.0.11",
+            "version": "3.0.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/humanmade/S3-Uploads.git",
-                "reference": "237aef88fa15c3c7ac43b48d8cdf6e0d500326d4"
+                "reference": "c7f101475f93851bfe0cb1864b503971d06af802"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/humanmade/S3-Uploads/zipball/237aef88fa15c3c7ac43b48d8cdf6e0d500326d4",
-                "reference": "237aef88fa15c3c7ac43b48d8cdf6e0d500326d4",
+                "url": "https://api.github.com/repos/humanmade/S3-Uploads/zipball/c7f101475f93851bfe0cb1864b503971d06af802",
+                "reference": "c7f101475f93851bfe0cb1864b503971d06af802",
                 "shasum": ""
             },
             "require": {
@@ -4901,7 +4850,7 @@
             "type": "wordpress-plugin",
             "autoload": {
                 "classmap": [
-                    "./inc"
+                    "inc/"
                 ]
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -4923,7 +4872,7 @@
                 "issues": "https://github.com/humanmade/s3-uploads/issues",
                 "source": "https://github.com/humanmade/s3-uploads"
             },
-            "time": "2025-10-22T14:49:30+00:00"
+            "time": "2026-02-17T16:21:03+00:00"
         },
         {
             "name": "illuminate/bus",
