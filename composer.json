@@ -60,7 +60,7 @@
     "helsingborg-stad/lix-calculator": "4.1.3",
     "helsingborg-stad/media-usage": "3.0.8",
     "helsingborg-stad/miniorange-saml-20-single-sign-on": "5.2.4",
-    "helsingborg-stad/mod-my-pages": "2.0.1",
+    "helsingborg-stad/mod-my-pages": "2.0.3",
     "helsingborg-stad/modularity-contact-banner": "4.0.12",
     "helsingborg-stad/modularity-entryscape": "5.0.12",
     "helsingborg-stad/modularity-form-builder": "4.0.6",
@@ -95,7 +95,7 @@
     "helsingborg-stad/wpmu-remove-user-endpoint": "0.2.2",
     "helsingborg-stad/wpmu-security": "1.9.0",
     "helsingborg/modularity-dynamic-guides": "2.0.7",
-    "humanmade/s3-uploads": "3.0.12",
+    "humanmade/s3-uploads": "3.0.11",
     "johnpbloch/wordpress": "6.9.1",
     "municipio-se/modularity-noticeboard": "1.1.0",
     "wpackagist-plugin/autodescription": "5.1.4",
@@ -162,7 +162,7 @@
     ],
     "pin-all-latest": [
       "bash -c 'set -euo pipefail; composer outdated --direct --format=json --ignore-platform-req=ext-imagick | jq -c \".installed[] | select(.latest != null and .latest != \\\"[none matched]\\\" and (.latest | startswith(\\\"dev-\\\") | not)) | {name:.name, version:.latest}\" | while read -r row; do PKG=$(echo \"$row\" | jq -r .name); VER=$(echo \"$row\" | jq -r .version); CURRENT=$(jq -r --arg p \"$PKG\" \".require[\\$p] // \\\"\\\"\" composer.json); if [ -z \"$CURRENT\" ]; then echo \"Skipping $PKG (not in root composer.json)\"; elif [[ \"$CURRENT\" == dev-* ]]; then echo \"Skipping $PKG (current version is dev)\"; else echo \"Updating $PKG to $VER\"; jq --arg p \"$PKG\" --arg v \"$VER\" \".require[\\$p] = \\$v\" composer.json > composer.json.tmp && mv composer.json.tmp composer.json; fi; done'",
-      "composer update --lock --ignore-platform-req=ext-imagick"
+      "composer update --lock --ignore-platform-req=ext-imagick -W"
     ],
     "dev": [
       ".devcontainer/scripts/setup-dev-package.sh"
