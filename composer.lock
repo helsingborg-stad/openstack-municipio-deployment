@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a40bdc1cdc658471a52775f547aa3f33",
+    "content-hash": "528b441b4bda9ad769a2c51c66df088a",
     "packages": [
         {
             "name": "algolia/algoliasearch-client-php",
@@ -3425,6 +3425,7 @@
                 "issues": "https://github.com/helsingborg-stad/modularity-local-events/issues",
                 "source": "https://github.com/helsingborg-stad/modularity-local-events/tree/4.0.2"
             },
+            "abandoned": true,
             "time": "2025-11-20T09:28:46+00:00"
         },
         {
@@ -9720,12 +9721,12 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {},
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
         "php": "^8.0.0 || ^8.1.0 || ^8.2.0 || ^8.3.0"
     },
-    "platform-dev": {},
+    "platform-dev": [],
     "plugin-api-version": "2.6.0"
 }
