@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7b1ba05cc0ea394613a4a52ca43da537",
+    "content-hash": "8713db351d7d3d04953bae866efa0e45",
     "packages": [
         {
             "name": "algolia/algoliasearch-client-php",
@@ -290,16 +290,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.379.7",
+            "version": "3.380.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "2c338cb3f2bcb9e8616ffbac7a36d66034f2ceef"
+                "reference": "01e0e05a5744715904cfb53ac7564d2e39996d4d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/2c338cb3f2bcb9e8616ffbac7a36d66034f2ceef",
-                "reference": "2c338cb3f2bcb9e8616ffbac7a36d66034f2ceef",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/01e0e05a5744715904cfb53ac7564d2e39996d4d",
+                "reference": "01e0e05a5744715904cfb53ac7564d2e39996d4d",
                 "shasum": ""
             },
             "require": {
@@ -381,9 +381,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.379.7"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.380.1"
             },
-            "time": "2026-04-24T18:17:06+00:00"
+            "time": "2026-05-05T18:06:08+00:00"
         },
         {
             "name": "carbonphp/carbon-doctrine-types",
@@ -2067,16 +2067,16 @@
         },
         {
             "name": "helsingborg-stad/api-alarm-integration",
-            "version": "5.0.9",
+            "version": "5.0.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/api-alarm-integration.git",
-                "reference": "e7ce0d6c27208013a89c301dfc6ab78091bd8c13"
+                "reference": "17c4d077307a35b5348db9f5a5855023b8188b1e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/api-alarm-integration/zipball/e7ce0d6c27208013a89c301dfc6ab78091bd8c13",
-                "reference": "e7ce0d6c27208013a89c301dfc6ab78091bd8c13",
+                "url": "https://api.github.com/repos/helsingborg-stad/api-alarm-integration/zipball/17c4d077307a35b5348db9f5a5855023b8188b1e",
+                "reference": "17c4d077307a35b5348db9f5a5855023b8188b1e",
                 "shasum": ""
             },
             "require": {
@@ -2122,9 +2122,9 @@
             ],
             "support": {
                 "issues": "https://github.com/helsingborg-stad/api-alarm-integration/issues",
-                "source": "https://github.com/helsingborg-stad/api-alarm-integration/tree/5.0.9"
+                "source": "https://github.com/helsingborg-stad/api-alarm-integration/tree/5.0.11"
             },
-            "time": "2026-04-01T07:44:17+00:00"
+            "time": "2026-05-06T09:01:41+00:00"
         },
         {
             "name": "helsingborg-stad/api-event-manager-integration",
@@ -2662,16 +2662,16 @@
         },
         {
             "name": "helsingborg-stad/easy-to-read-alternative",
-            "version": "3.0.8",
+            "version": "3.0.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/easy-to-read-alternative.git",
-                "reference": "50ea587a69ca8690b31f44dc61a1d1f47912a9f4"
+                "reference": "322600524cee82ef22e0171c733b21006cfff24a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/easy-to-read-alternative/zipball/50ea587a69ca8690b31f44dc61a1d1f47912a9f4",
-                "reference": "50ea587a69ca8690b31f44dc61a1d1f47912a9f4",
+                "url": "https://api.github.com/repos/helsingborg-stad/easy-to-read-alternative/zipball/322600524cee82ef22e0171c733b21006cfff24a",
+                "reference": "322600524cee82ef22e0171c733b21006cfff24a",
                 "shasum": ""
             },
             "require": {
@@ -2696,9 +2696,9 @@
             "description": "Adds easy to read alternative content version.",
             "support": {
                 "issues": "https://github.com/helsingborg-stad/easy-to-read-alternative/issues",
-                "source": "https://github.com/helsingborg-stad/easy-to-read-alternative/tree/3.0.8"
+                "source": "https://github.com/helsingborg-stad/easy-to-read-alternative/tree/3.0.9"
             },
-            "time": "2025-11-20T09:12:03+00:00"
+            "time": "2026-05-05T15:43:35+00:00"
         },
         {
             "name": "helsingborg-stad/force-ssl",
@@ -3931,16 +3931,16 @@
         },
         {
             "name": "helsingborg-stad/municipio",
-            "version": "6.40.4",
+            "version": "6.43.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/Municipio.git",
-                "reference": "4dd37c6743e05ac2cfedcb62b43cc26954ad8385"
+                "reference": "f029722f383390c6f252458f7aca2cd7dfc0b533"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/Municipio/zipball/4dd37c6743e05ac2cfedcb62b43cc26954ad8385",
-                "reference": "4dd37c6743e05ac2cfedcb62b43cc26954ad8385",
+                "url": "https://api.github.com/repos/helsingborg-stad/Municipio/zipball/f029722f383390c6f252458f7aca2cd7dfc0b533",
+                "reference": "f029722f383390c6f252458f7aca2cd7dfc0b533",
                 "shasum": ""
             },
             "require": {
@@ -4016,9 +4016,9 @@
             "description": "A bootstrap theme for creating municipality sites.",
             "support": {
                 "issues": "https://github.com/helsingborg-stad/Municipio/issues",
-                "source": "https://github.com/helsingborg-stad/Municipio/tree/6.40.4"
+                "source": "https://github.com/helsingborg-stad/Municipio/tree/6.43.2"
             },
-            "time": "2026-04-27T10:13:24+00:00"
+            "time": "2026-05-05T14:12:55+00:00"
         },
         {
             "name": "helsingborg-stad/redirection-extended",
@@ -5794,16 +5794,16 @@
         },
         {
             "name": "justinrainbow/json-schema",
-            "version": "5.3.3",
+            "version": "5.3.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jsonrainbow/json-schema.git",
-                "reference": "a0b7c13588b102d7d6536823e96d1c88d3dba85e"
+                "reference": "7df70ffaf31d98726801b4bc099e1fbdbe2e5e54"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jsonrainbow/json-schema/zipball/a0b7c13588b102d7d6536823e96d1c88d3dba85e",
-                "reference": "a0b7c13588b102d7d6536823e96d1c88d3dba85e",
+                "url": "https://api.github.com/repos/jsonrainbow/json-schema/zipball/7df70ffaf31d98726801b4bc099e1fbdbe2e5e54",
+                "reference": "7df70ffaf31d98726801b4bc099e1fbdbe2e5e54",
                 "shasum": ""
             },
             "require": {
@@ -5853,9 +5853,9 @@
             ],
             "support": {
                 "issues": "https://github.com/jsonrainbow/json-schema/issues",
-                "source": "https://github.com/jsonrainbow/json-schema/tree/5.3.3"
+                "source": "https://github.com/jsonrainbow/json-schema/tree/5.3.4"
             },
-            "time": "2026-03-24T18:47:53+00:00"
+            "time": "2026-05-04T18:54:58+00:00"
         },
         {
             "name": "landrok/language-detector",
@@ -7996,16 +7996,16 @@
         },
         {
             "name": "symfony/filesystem",
-            "version": "v7.4.8",
+            "version": "v7.4.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/filesystem.git",
-                "reference": "58b9790d12f9670b7f53a1c1738febd3108970a5"
+                "reference": "dcd8f96bcdc0f128ec406c765cc066c6035d1be3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/filesystem/zipball/58b9790d12f9670b7f53a1c1738febd3108970a5",
-                "reference": "58b9790d12f9670b7f53a1c1738febd3108970a5",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/dcd8f96bcdc0f128ec406c765cc066c6035d1be3",
+                "reference": "dcd8f96bcdc0f128ec406c765cc066c6035d1be3",
                 "shasum": ""
             },
             "require": {
@@ -8042,7 +8042,7 @@
             "description": "Provides basic utilities for the filesystem",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/filesystem/tree/v7.4.8"
+                "source": "https://github.com/symfony/filesystem/tree/v7.4.9"
             },
             "funding": [
                 {
@@ -8062,7 +8062,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-03-24T13:12:05+00:00"
+            "time": "2026-04-18T13:18:21+00:00"
         },
         {
             "name": "symfony/finder",
@@ -8129,16 +8129,16 @@
         },
         {
             "name": "symfony/http-client",
-            "version": "v7.4.8",
+            "version": "v7.4.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-client.git",
-                "reference": "01933e626c3de76bea1e22641e205e78f6a34342"
+                "reference": "7e941c6abf4e3bf7dca160bf0e11ef36a9f832f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/http-client/zipball/01933e626c3de76bea1e22641e205e78f6a34342",
-                "reference": "01933e626c3de76bea1e22641e205e78f6a34342",
+                "url": "https://api.github.com/repos/symfony/http-client/zipball/7e941c6abf4e3bf7dca160bf0e11ef36a9f832f6",
+                "reference": "7e941c6abf4e3bf7dca160bf0e11ef36a9f832f6",
                 "shasum": ""
             },
             "require": {
@@ -8206,7 +8206,7 @@
                 "http"
             ],
             "support": {
-                "source": "https://github.com/symfony/http-client/tree/v7.4.8"
+                "source": "https://github.com/symfony/http-client/tree/v7.4.9"
             },
             "funding": [
                 {
@@ -8226,7 +8226,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-03-30T12:55:43+00:00"
+            "time": "2026-04-29T13:25:15+00:00"
         },
         {
             "name": "symfony/http-client-contracts",
@@ -9754,15 +9754,15 @@
         },
         {
             "name": "wpackagist-plugin/redis-cache",
-            "version": "2.7.0",
+            "version": "2.8.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/redis-cache/",
-                "reference": "tags/2.7.0"
+                "reference": "tags/2.8.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/redis-cache.2.7.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/redis-cache.2.8.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
