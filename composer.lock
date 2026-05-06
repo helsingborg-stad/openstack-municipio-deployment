@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cd8b2888058127071aede88440a3021e",
+    "content-hash": "8713db351d7d3d04953bae866efa0e45",
     "packages": [
         {
             "name": "algolia/algoliasearch-client-php",
@@ -2067,16 +2067,16 @@
         },
         {
             "name": "helsingborg-stad/api-alarm-integration",
-            "version": "5.0.9",
+            "version": "5.0.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/api-alarm-integration.git",
-                "reference": "e7ce0d6c27208013a89c301dfc6ab78091bd8c13"
+                "reference": "17c4d077307a35b5348db9f5a5855023b8188b1e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/api-alarm-integration/zipball/e7ce0d6c27208013a89c301dfc6ab78091bd8c13",
-                "reference": "e7ce0d6c27208013a89c301dfc6ab78091bd8c13",
+                "url": "https://api.github.com/repos/helsingborg-stad/api-alarm-integration/zipball/17c4d077307a35b5348db9f5a5855023b8188b1e",
+                "reference": "17c4d077307a35b5348db9f5a5855023b8188b1e",
                 "shasum": ""
             },
             "require": {
@@ -2122,9 +2122,9 @@
             ],
             "support": {
                 "issues": "https://github.com/helsingborg-stad/api-alarm-integration/issues",
-                "source": "https://github.com/helsingborg-stad/api-alarm-integration/tree/5.0.9"
+                "source": "https://github.com/helsingborg-stad/api-alarm-integration/tree/5.0.11"
             },
-            "time": "2026-04-01T07:44:17+00:00"
+            "time": "2026-05-06T09:01:41+00:00"
         },
         {
             "name": "helsingborg-stad/api-event-manager-integration",
