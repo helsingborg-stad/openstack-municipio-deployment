@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9b64781b10e3c555a31eb75c75aa198f",
+    "content-hash": "7260b900cece0f2b491b837059490bd9",
     "packages": [
         {
             "name": "algolia/algoliasearch-client-php",
@@ -290,16 +290,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.384.1",
+            "version": "3.384.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "d8a2701c5616b9c4eb034f7ed834c53350f48af6"
+                "reference": "a6c85b3a1f5f8327076291040329214b3a2caf2b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/d8a2701c5616b9c4eb034f7ed834c53350f48af6",
-                "reference": "d8a2701c5616b9c4eb034f7ed834c53350f48af6",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/a6c85b3a1f5f8327076291040329214b3a2caf2b",
+                "reference": "a6c85b3a1f5f8327076291040329214b3a2caf2b",
                 "shasum": ""
             },
             "require": {
@@ -381,9 +381,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.384.1"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.384.2"
             },
-            "time": "2026-06-03T05:46:25+00:00"
+            "time": "2026-06-03T18:07:33+00:00"
         },
         {
             "name": "brick/math",
@@ -4052,16 +4052,16 @@
         },
         {
             "name": "helsingborg-stad/municipio",
-            "version": "7.4.3",
+            "version": "7.4.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/Municipio.git",
-                "reference": "caeb9b2027215807f6ad7a7e70c97ce37430eaf8"
+                "reference": "daa42dfac4fe3e3c07b5b9a5c4fe8954cd3f66cf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/Municipio/zipball/caeb9b2027215807f6ad7a7e70c97ce37430eaf8",
-                "reference": "caeb9b2027215807f6ad7a7e70c97ce37430eaf8",
+                "url": "https://api.github.com/repos/helsingborg-stad/Municipio/zipball/daa42dfac4fe3e3c07b5b9a5c4fe8954cd3f66cf",
+                "reference": "daa42dfac4fe3e3c07b5b9a5c4fe8954cd3f66cf",
                 "shasum": ""
             },
             "require": {
@@ -4139,9 +4139,9 @@
             "description": "A bootstrap theme for creating municipality sites.",
             "support": {
                 "issues": "https://github.com/helsingborg-stad/Municipio/issues",
-                "source": "https://github.com/helsingborg-stad/Municipio/tree/7.4.3"
+                "source": "https://github.com/helsingborg-stad/Municipio/tree/7.4.13"
             },
-            "time": "2026-06-03T12:31:17+00:00"
+            "time": "2026-06-04T13:31:12+00:00"
         },
         {
             "name": "helsingborg-stad/redirection-extended",
@@ -4403,16 +4403,16 @@
         },
         {
             "name": "helsingborg-stad/visit-custom-posttypes-taxonomies",
-            "version": "2.0.8",
+            "version": "2.0.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/helsingborg-stad/visit-custom-posttypes-taxonomies.git",
-                "reference": "8d51048a5c160abab5e666e2effed6cd311513c7"
+                "reference": "b4e73621fd3ffa048aa887e772e1f795e5a3a07a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/helsingborg-stad/visit-custom-posttypes-taxonomies/zipball/8d51048a5c160abab5e666e2effed6cd311513c7",
-                "reference": "8d51048a5c160abab5e666e2effed6cd311513c7",
+                "url": "https://api.github.com/repos/helsingborg-stad/visit-custom-posttypes-taxonomies/zipball/b4e73621fd3ffa048aa887e772e1f795e5a3a07a",
+                "reference": "b4e73621fd3ffa048aa887e772e1f795e5a3a07a",
                 "shasum": ""
             },
             "require": {
@@ -4438,9 +4438,9 @@
             "description": "Custom post types, taxonomies and ACF field groups",
             "support": {
                 "issues": "https://github.com/helsingborg-stad/visit-custom-posttypes-taxonomies/issues",
-                "source": "https://github.com/helsingborg-stad/visit-custom-posttypes-taxonomies/tree/2.0.8"
+                "source": "https://github.com/helsingborg-stad/visit-custom-posttypes-taxonomies/tree/2.0.10"
             },
-            "time": "2026-02-18T07:16:28+00:00"
+            "time": "2026-06-04T08:22:51+00:00"
         },
         {
             "name": "helsingborg-stad/webhooks-manager",
